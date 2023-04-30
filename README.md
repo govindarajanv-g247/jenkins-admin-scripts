@@ -21,6 +21,6 @@
 - 
 
 ## Reference
-[Scripts](https://github.com/samrocketman/jenkins-script-console-scripts)
-[Cloudbees](https://github.com/cloudbees/jenkins-scripts)
-[DevOpsSchool](https://www.devopsschool.com/blog/database-of-groovy-script-for-jenkins-automation/)
+- [Scripts](https://github.com/samrocketman/jenkins-script-console-scripts)
+- [Cloudbees](https://github.com/cloudbees/jenkins-scripts)
+- [DevOpsSchool](https://www.devopsschool.com/blog/database-of-groovy-script-for-jenkins-automation/)
