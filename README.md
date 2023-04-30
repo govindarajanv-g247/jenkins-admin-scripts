@@ -5,6 +5,7 @@
 
 - [audit user permissions](https://github.com/samrocketman/jenkins-script-console-scripts/blob/main/audit-user-permissions.groovy)
 - [Count Active Jobs](https://github.com/samrocketman/jenkins-script-console-scripts/blob/main/count-active-jobs.groovy)
+- [Count Projects](https://github.com/samrocketman/jenkins-script-console-scripts/blob/main/count-projects-by-type.groovy)
 - [Count Projects By Type](https://github.com/samrocketman/jenkins-script-console-scripts/blob/main/count-projects-by-type.groovy)
 - [Find Crons](https://github.com/samrocketman/jenkins-script-console-scripts/blob/main/find-all-cron-schedules-by-frequency.groovy)
 - [Queue Depth](https://github.com/cloudbees/jenkins-scripts/blob/master/exportLoadStatistics.groovy)
